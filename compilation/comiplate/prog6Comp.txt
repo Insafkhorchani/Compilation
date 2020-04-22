@@ -1,0 +1,3 @@
+syntax error :line 1
+ nom du programme invalide :line 1
+ program attendu : line 11

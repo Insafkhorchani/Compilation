@@ -1,0 +1,3 @@
+syntax error : on line 1
+ nom du programme invalide  : on line 1
+Analyseur syntaxique: fin du programme

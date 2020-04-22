@@ -1,0 +1,3 @@
+syntax error :line 2
+  return type de fonction manquant ! : line 2
+Analyseur syntaxique: fin du programme

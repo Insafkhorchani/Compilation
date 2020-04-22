@@ -1,0 +1,5 @@
+syntax error : on line 2
+  nom  de fonction manquant !: on line 2
+syntax error : on line 7
+parenthese ouvrante manquante : on line 7
+Analyseur syntaxique: fin du programme

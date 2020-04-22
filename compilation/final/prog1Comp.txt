@@ -1,0 +1,3 @@
+syntax error : on line10
+point virgule d'instruction omis : on line 10
+Analyseur syntaxique: fin du programme

@@ -1,0 +1,5 @@
+syntax error 3
+  nom  de fonction manquant ! 3
+syntax error 9
+parenthese ouvrante manquante 9
+Analyseur syntaxique: fin du programme

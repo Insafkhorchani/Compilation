@@ -1,0 +1,12 @@
+program  ;
+function factorielle( n: integer ): integer ;
+Begin
+  if (n == 1) then
+    factorielle := 1
+  else
+    factorielle := n*factorielle( n - 1 );
+end;
+begin
+writeln('Hello World') ;
+readln;
+end
